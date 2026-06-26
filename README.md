@@ -51,6 +51,8 @@ end_date = "2024-06-26"
 Results
 
 Example Output:
+<img width="4200" height="3000" alt="backtest_BTC-USD" src="https://github.com/user-attachments/assets/7faec375-a5ef-42ca-a81f-82ba03ed1f01" />
+
 
 Backtesting MA Crossover Strategy on BTC-USD
 ==================================================
